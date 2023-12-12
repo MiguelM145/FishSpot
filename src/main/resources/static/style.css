@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+#register{
+	width: 200px; 
+	border: 3px black solid; 
+	padding-bottom: 20px; 
+	margin-bottom: 30px; 
+	color:white; 
+	font-size: 25px; 
+	font-weight: bold; 
+	
+}
+
+#login{
+	width: 200px;
+	border: 3px black solid; 
+	padding-bottom: 20px;  
+	font-weight: bold; 
+	font-size: 25px; 
+	color: white; 
+}
+
+#page{
+	
+	margin-left:44.5%; 
+	
+}
+
+body{
+	text-align: center; 
+	background-image: url("/fishy.png");
+}
+
+#title{
+	font-weight: bold;
+	font-size: 80px; 
+	color: white; 
+	margin-bottom: 0px; 
+	margin-top: 0px; 
+}
+
+#underTitle{
+	color: white; 
+	font-weight: bold; 
+	
+}
